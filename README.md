@@ -20,7 +20,7 @@ To install SVGenius:
 
 - Go to the project directory
 
-- Launch the terminal and execute the following command: npm install
+- Launch the terminal and execute the following command: "`npm install`".
 
 ## Usage
 
