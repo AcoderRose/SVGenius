@@ -38,9 +38,9 @@ Run the following command in your terminal to use SVGenius: "`node index.js`".
 
 Once the user has provided all the required information, an SVG file with the User specified name will be generated, and they will see a message in the command line confirming the successful creation, shown as "`Generated ${fileName}`". The logo will be generated into a 300x200 pixel image.
 
-[Link to Walk Through Video]()
+[Link to Walk Through Video](https://drive.google.com/file/d/1vhbr93YDmaBLNjKKtOXXn-KKBVg-gLgN/view?usp=sharing)
 
-![Screenshot of SVGenius]()
+![Screenshot of SVGenius](./images/SVGenius-screenshot.png)
 
 ## Credits
 
